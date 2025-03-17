@@ -94,12 +94,16 @@ pip install -r requirements.txt
 ```
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+© 2025 NHÓM 1, CNTT16-02, TRƯỜNG ĐẠI HỌC ĐẠI NAM
 
 ## Acknowledgements
 This project uses the following libraries:
 - [MediaPipe](https://mediapipe.dev/)
 - [OpenCV](https://opencv.org/)
-- [TensorFlow](https://www.tensorflow.org/)
+- [TensorFlow](https://www.tensorflow.org/) <br>
+
+This initiative was directed by those exceptional individuals:
+- ThS. Le Trung Hieu
+- ThS. Tran Thai Khanh
 
 For any questions or issues, please open an issue in the repository.
