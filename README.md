@@ -1,0 +1,1 @@
+# Hand_Gesture_Detect_Using_MediaPipe_by_CNTT1602
